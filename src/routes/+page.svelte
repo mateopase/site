@@ -4,7 +4,7 @@
 
 <main class="hero">
 	<PhysicsScene />
-	<h1>Hello</h1>
+	<h1>Hello!</h1>
 </main>
 
 <style>
